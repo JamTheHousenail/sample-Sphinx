@@ -2,6 +2,10 @@
 
 SphinxというPyhonのドキュメント作成ツールを使用して、マニュアルを作成します。
 
+## Git管理
+
+init
+
 ```text
 git init
 git add -A
