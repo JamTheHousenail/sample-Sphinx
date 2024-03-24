@@ -1,0 +1,4 @@
+venv
+PowerShell
+Set-ExecutionPolicy
+build
